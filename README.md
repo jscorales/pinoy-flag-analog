@@ -1,4 +1,4 @@
 Pinoy Flag Analog
 ==================
 
-Times Square Pebble Time watch face
+Pinoy Flag Analog Pebble Time watch face
